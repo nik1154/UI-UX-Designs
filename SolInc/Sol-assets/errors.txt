@@ -1,0 +1,1 @@
+[Wed Jul 26 2017 14:14:49 GMT+0530 (India Standard Time)] document "Sol.psd": Fonts may render inconsistently and text wrapping is unsupported which can result in clipped text. Convert text to a shape to maintain fidelity.
